@@ -1,8 +1,10 @@
-Soy Cristóbal Villanueva, alumno de geología de la Universidad de Concepción interesado en la programación y el desarrollo web. Puede checkear algunos de mis repositorios:
+Soy Cristóbal Villanueva, alumno de geología de la Universidad de Concepción interesado en la programación y el desarrollo web. 
+
+Mis repositorios:
 
 * [Materiales de Python asociados a la geología](https://github.com/crvillanueva/python-geologia)
 
-Algunas de as tecnologías que manejo son:
+Tecnologías que manejo:
 
 * Python
 * JavaScript
@@ -12,4 +14,4 @@ Algunas de as tecnologías que manejo son:
 
 Puedes contactarme en:
 
-cristobaljvp@gmail.com
+* cristobaljvp@gmail.com
