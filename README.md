@@ -1,6 +1,8 @@
-Soy Cristóbal Villanueva, alumno de geología de la Universidad de Concepción interesado en la programación y el desarrollo web. 
+Soy Cristóbal Villanueva, egresado de la carrera de geología de la [Universidad de Concepción](https://www.udec.cl/pexterno/) interesado en la programación y el desarrollo web. 
 
-Mis repositorios:
+## [Página Personal](https://crvillanueva.github.io/)
+
+## Mis repositorios:
 
 * [Materiales de Python asociados a la geología](https://github.com/crvillanueva/python-geologia)
 
@@ -8,10 +10,11 @@ Tecnologías que manejo:
 
 * Python
 * JavaScript
-* HTML y CSS
 * Git
+* HTML y CSS
+* Gatsby
 * Docker
 
-Puedes contactarme en:
+Cualquier consulta puedes contactarme en:
 
 * cristobaljvp@gmail.com
