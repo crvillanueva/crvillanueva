@@ -1,6 +1,6 @@
 Soy Cristóbal Villanueva, egresado de la carrera de geología de la [Universidad de Concepción](https://www.udec.cl/pexterno/) interesado en la programación y el desarrollo web. 
 
-## [Página Personal](https://crvillanueva.github.io/)
+## 📄[Mi página web personal](https://crvillanueva.github.io/)
 
 ## Mis repositorios:
 
@@ -11,6 +11,7 @@ Tecnologías que manejo:
 * Python
 * JavaScript
 * Git
+* Base de Datos (SQL y MongoDB)
 * HTML y CSS
 * Gatsby
 * Docker
