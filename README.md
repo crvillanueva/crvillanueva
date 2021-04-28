@@ -16,6 +16,8 @@ Tecnologías que manejo:
 * Gatsby
 * Docker
 
+
+## Contacto
 Cualquier consulta puedes contactarme en:
 
-* cristobaljvp@gmail.com
+_cristobaljvp@gmail.com_
