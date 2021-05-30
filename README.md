@@ -1,6 +1,6 @@
 ¡Hola! Soy Cristóbal Villanueva geólogo🌎 de la Universidad de Concepción, interesado en las diversas áreas de mi carrera, particularmente en la hidrogeología. Soy además un apasionado por la programación y el desarrollo web.
 
-#
+##
 ## 📄 [Mi página web personal](https://crvillanueva.github.io/)
 
 ## Mis repositorios:
