@@ -7,7 +7,7 @@
 * [Materiales de Python asociados a la geología](https://github.com/crvillanueva/python-geologia)
 * [Dashboards interactivas geólogicas]()
 
-Tecnologías que manejo:
+## Tecnologías / Competencias:
 
 * Python
 * JavaScript
