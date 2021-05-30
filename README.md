@@ -1,4 +1,4 @@
-¡Hola! Soy Cristóbal Villanueva, egresado de la carrera de 🌎Geología de la [Universidad de Concepción](https://www.udec.cl/pexterno/), interesado en las diversas áreas de mi carrera, particularmente en la hidrogeología. Además soy un apasionado por la programación y el desarrollo web.
+¡Hola! Soy Cristóbal Villanueva, egresado de la carrera de 🌎Geología de la Universidad de Concepción, interesado en las diversas áreas de mi carrera, particularmente en la hidrogeología. Además soy un apasionado por la programación y el desarrollo web.
 
 ## 📄 [Mi página web personal](https://crvillanueva.github.io/)
 
