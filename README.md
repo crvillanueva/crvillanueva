@@ -5,7 +5,7 @@
 ## Mis repositorios:
 
 * [Materiales de Python asociados a la geología](https://github.com/crvillanueva/python-geologia)
-* [Dashboards interactivas geológicas]()
+* [Dashboards interactivas geológicas](https://github.com/crvillanueva/dash-plotly-geoapps/)
 
 ## Tecnologías / Competencias:
 
