@@ -5,16 +5,16 @@
 ## Mis repositorios:
 
 * [Materiales de Python asociados a la geología](https://github.com/crvillanueva/python-geologia)
-
+* [Dashboards interactivas geólogicas]()
 
 Tecnologías que manejo:
 
 * Python
 * JavaScript
 * Git
-* Base de Datos (SQL y MongoDB)
+* PostgreSQL
 * HTML y CSS
-* React
+* React y Gatsby
 * Docker
 
 
