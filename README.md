@@ -7,6 +7,7 @@
 
 * [Materiales de Python asociados a la geología](https://github.com/crvillanueva/python-geologia)
 * [Dashboards interactivas geológicas](https://github.com/crvillanueva/dash-plotly-geoapps/)
+* [¡Tutoriales y más!](https://github.com/crvillanueva?tab=repositories)
 
 ## Tecnologías / Competencias:
 
