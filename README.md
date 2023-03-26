@@ -17,13 +17,13 @@ Geólogo 🌎 de la Universidad de Concepción. Apasionado por la programación 
 * Python
 * JavaScript
 * Git
-* PostgreSQL
+* PostgreSQL & SQL Server
 * HTML y CSS
 * React
 * Docker
 
-
 ## Contacto
+
 Puedes contactarme en:
 
 ✉ _cristobaljvp@gmail.com_
