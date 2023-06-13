@@ -1,6 +1,6 @@
 Cristóbal Villanueva.
 
-Geólogo 🌎 de la Universidad de Concepción. Apasionado por la programación y el desarrollo web.
+Geólogo 🌎 de la Universidad de Concepción y Desarrollador Backend. Apasionado por la programación y el desarrollo web.
 
 ##
 ### 📄 [Mi página web personal](https://crvillanueva.github.io/)
